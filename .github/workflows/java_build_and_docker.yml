@@ -24,7 +24,7 @@ jobs:
         - name: Build and Push Docker Image to Docker Hub
           uses: mr-smithers-excellent/docker-build-push@v4
           with:
-            image: takoosh808/javatest:latest
+            image: takoosh808/javatest:tagname
             registry: docker.io
             username: takoosh808
             password: TravyPatty0104$
