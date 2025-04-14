@@ -27,4 +27,4 @@ jobs:
             image: takoosh808/javatest:latest
             registry: docker.io
             username: takoosh808
-            password: Luke0104Leia$
+            password: TravyPatty0104$
